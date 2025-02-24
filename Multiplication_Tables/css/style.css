@@ -8,21 +8,21 @@ header {
     flex-direction: column;
 }
 
-.numTabla {
+.numTable {
     border-radius: 5px;
     border: 5px;
     padding: 10px;
     width: 250px;
 }
 
-.numResultado {
+.numResult {
     border-radius: 5px;
     border: 5px;
     padding: 10px;
     width: 50px;
 }
 
-.botonSubmit {
+.buttonSubmit {
     padding: 6px;
     border-radius: 10px;
     color: aliceblue;
@@ -30,7 +30,7 @@ header {
     width: 250px;
 }
 
-.botonResultado {
+.buttonResult {
     padding: 6px;
     border-radius: 10px;
     color: aliceblue;
@@ -38,7 +38,7 @@ header {
     width: 85px;
 }
 
-.resultado {
+.result {
     display: flex;
     font-family: Arial, Helvetica, sans-serif;
     color: black;
@@ -69,5 +69,5 @@ tr:nth-child(even) {
 }
 
 tr:hover {
-  background-color: #d1ecf1;
+    background-color: #d1ecf1;
 }
